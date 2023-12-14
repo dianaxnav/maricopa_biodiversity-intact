@@ -1,7 +1,7 @@
-# Maricopa Biodiversity Analysis (2017 & 2020)
+# Phoenix Subdivision Biodiversity Analysis (2017 & 2020)
 Purpose
 
-Maricopa County has had the most urban development since 2001. The issue with urban development is that it can cause pressures on the natural environment and biodiversity in the area. This analysis demonstrates the loss of biodiversity through the BII(biodiversity intactness index) from 2017 to 2020. 
+Maricopa County, including Phoenix, has experienced extensive urban expansion, incorporating over 270 square miles of developed land since 2001. This surge in urban development raises concerns about its impact on the local natural environment and biodiversity. The analysis presented here illustrates a decline in biodiversity, as indicated by the Biodiversity Intactness Index (BII), observed from 2017 to 2020. The use of biodiversity indicators is crucial for guiding planning efforts and monitoring initiatives aimed at preserving the world's remaining biodiversity. 
 
 References to Datasets
 
